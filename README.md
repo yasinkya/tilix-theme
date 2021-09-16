@@ -25,4 +25,4 @@ Preferences/Default/Color/Color scheme
 
 
 ### Screenshot:
-
+![alttext](https://github.com/yasinkya/tilix-theme/blob/master/scr.png)
